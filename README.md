@@ -1,4 +1,4 @@
-# NBA-Analytics
+# NBA-Analytics 
 
 ## I have a deep passion for sports. I play basketball and I enjoy watching the sport as well. I have always wanted to use my experience with coding to analyze trends within the NBA.
 
